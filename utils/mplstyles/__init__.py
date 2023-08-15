@@ -1,7 +1,7 @@
 """
 https://matplotlib.org/stable/tutorials/introductory/customizing.html#defining-your-own-style
 """
-from custom.utils.paths import MPLSTYLES_DIR
+from utils.utils.paths import MPLSTYLES_DIR
 
 
 
