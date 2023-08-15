@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "utils"
+name = "custom"
 version = "0.1.0"
 description = "Custom python utilities."
 authors = ["Max Fatouros <max.fatouros@gmail.com>"]
