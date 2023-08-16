@@ -4,7 +4,6 @@ https://matplotlib.org/stable/tutorials/introductory/customizing.html#defining-y
 from custom.utils.paths import MPLSTYLES_DIR
 
 
-
 POSTER = [
     'seaborn-v0_8',
     MPLSTYLES_DIR / 'paper.mplstyle',
