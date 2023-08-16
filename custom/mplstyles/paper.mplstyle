@@ -3,6 +3,7 @@ axes.labelsize: 20
 axes.titlepad: 10.0
 axes.titlesize: 24
 figure.autolayout: True
+legend.fontsize: 14
 savefig.dpi: 200
 savefig.format: png
 xtick.labelsize: 14
